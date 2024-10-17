@@ -1,15 +1,20 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "终极剧本创作工作平台"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
+<<<<<<< HEAD
       "title": "Leave your fragrance on everywhere of packaging",
       "description": "We focus on high-end customization and environmentally friendly materials, aiming to provide customers with innovative and sustainable packaging solutions.",
+=======
+      "title": "欢迎来到我的平台",
+      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+>>>>>>> d5a84f75d532d65a6e576689be5bad320dae7d95
       "cta": "开始使用"
     },
     "Features": {
